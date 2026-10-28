@@ -157,6 +157,8 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 <h2>Output:</h2>
 <img width="622" height="206" alt="image" src="https://github.com/user-attachments/assets/20a9735d-8662-43b8-ab96-0a0b00dc766e" />
+<img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/9ea5249e-86a7-4f5b-96e8-cc2887b68912" />
+
 
 <h2>Result:</h2>
 Thus the Implementation of Simple Hill Climbing Algorithm is implemented successfully
